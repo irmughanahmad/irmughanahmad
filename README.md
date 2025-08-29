@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Irmughan Ahmad  
 
-<!--
-**irmughanahmad/irmughanahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Mechanical Engineering Student (3rd Semester)  
+- 💻 Learning Python, Automation & Freelancing  
+- 🌱 Currently working on small Python projects  
+- 🚀 Goal: Become a professional developer & freelancer  
 
-Here are some ideas to get you started:
+### 🔧 Skills  
+- Python (Basics, Automation, Small Projects)  
+- Git & GitHub  
+- Engineering Background  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: irmughanahmad@outlook.com
+
